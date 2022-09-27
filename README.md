@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tweijun
 - 👀 I’m interested in big data and artificial intelligence
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me : my email is twjkunming@126.com
 
 <!---
